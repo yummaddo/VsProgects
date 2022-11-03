@@ -1,0 +1,11 @@
+D:\VSprogects\VitaminList\VitaminList\bin\Debug\VitaminList.exe.config
+D:\VSprogects\VitaminList\VitaminList\bin\Debug\VitaminList.exe
+D:\VSprogects\VitaminList\VitaminList\bin\Debug\VitaminList.pdb
+D:\VSprogects\VitaminList\VitaminList\obj\Debug\VitaminList.csproj.AssemblyReference.cache
+D:\VSprogects\VitaminList\VitaminList\obj\Debug\VitaminList.csproj.SuggestedBindingRedirects.cache
+D:\VSprogects\VitaminList\VitaminList\obj\Debug\VitaminList.Form1.resources
+D:\VSprogects\VitaminList\VitaminList\obj\Debug\VitaminList.Properties.Resources.resources
+D:\VSprogects\VitaminList\VitaminList\obj\Debug\VitaminList.csproj.GenerateResource.cache
+D:\VSprogects\VitaminList\VitaminList\obj\Debug\VitaminList.csproj.CoreCompileInputs.cache
+D:\VSprogects\VitaminList\VitaminList\obj\Debug\VitaminList.exe
+D:\VSprogects\VitaminList\VitaminList\obj\Debug\VitaminList.pdb
